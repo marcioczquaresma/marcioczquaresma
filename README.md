@@ -1,9 +1,5 @@
-### Hi there 👋
+### Olá, eu sou Marcio Quaresma 👋
 
-- 🔭 I’m currently working on Jornal O Liberal
-- 🌱 I’m currently learning Pool ADA Cardano
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: emeil: marcioczquaresma@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente eu estou trabalhando em Belém no Jornal O Liberal
+- 🌱 Estou estudando sobre Pool ADA Cardano
+- 😄 Pronouns: ele/dele
